@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "382719448750",
+    "firebase_url": "https://pertemuanfirebase-76924-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pertemuanfirebase-76924",
+    "storage_bucket": "pertemuanfirebase-76924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382719448750:android:5028c085d639e87a58ff3f",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVw7ZUzZbaMFmYrU8z5HkY3d-lNMaYWYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382719448750:android:f3f013b3e3b3241558ff3f",
+        "android_client_info": {
+          "package_name": "com.example.googlegithubauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382719448750-5eqntcg6cdqu5p7c3fgtq7nj85f2qnc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlegithubauth",
+            "certificate_hash": "063ea2c080e5ff965379d80a2a7aafa62a398ddc"
+          }
+        },
+        {
+          "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVw7ZUzZbaMFmYrU8z5HkY3d-lNMaYWYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382719448750:android:cf223816d9cba33f58ff3f",
+        "android_client_info": {
+          "package_name": "com.example.pertemuanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVw7ZUzZbaMFmYrU8z5HkY3d-lNMaYWYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382719448750:android:7a8c2d9f68cf600f58ff3f",
+        "android_client_info": {
+          "package_name": "com.example.praktikum13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVw7ZUzZbaMFmYrU8z5HkY3d-lNMaYWYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382719448750-nt9maecdioku8hnl9mavg1assqmulert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

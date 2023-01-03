@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google GIthub Auth</string>
+    <string name="log_out">Sign Out</string>
+    <string name="login_with_google">Sign In with Google</string>
+</resources>
